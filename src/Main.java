@@ -28,5 +28,9 @@ public class Main {
             product = x * y;
         else
             quotient = x / y;
+
+        int result;
+        result = 9%4;
+        System.out.println("result");
     }
 }
